@@ -6,6 +6,8 @@ Campus Connect is a comprehensive student-centric platform developed using React
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
 - [Contact](#contact)
 
 ## Features
@@ -22,7 +24,17 @@ Campus Connect is a comprehensive student-centric platform developed using React
 - **ReactJS**: Frontend framework for building a dynamic and responsive user interface.
 - **Express**: Backend framework for handling server-side logic and API routes.
 - **MongoDB**: NoSQL database for storing user data, study materials, and other information.
-  
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm or yarn
+- MongoDB
+
 
 ## Contact
 
